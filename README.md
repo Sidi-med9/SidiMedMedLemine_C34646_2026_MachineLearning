@@ -31,7 +31,8 @@ SidiMedMedLemine_C34646_2026_MachineLearning/
 ├── Mini_Projet_ML_2026_AMOUNT.ipynb
 ├── README.md
 └── dataset/
-└── Insurance.csv
+    └── Insurance.csv
+
 
 ---
 
